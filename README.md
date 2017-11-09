@@ -1,13 +1,13 @@
 # ItunesSubscription
 
-Ruby wrapper for iTunes Subscription
+Ruby wrapper for iTunes Subscription [Apple doc](https://developer.apple.com/library/content/releasenotes/General/ValidateAppStoreReceipt/Chapters/ValidateRemotely.html)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'itunes-subscription'
+gem 'itunes-subscription', git: 'https://github.com/SHabor/itunes-subscription.git'
 ```
 
 And then execute:
