@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.files         = [
       "Gemfile",
       "Gemfile.lock",
-      "LICENSE",
+      "LICENSE.txt",
       "README.md",
       "Rakefile",
       "lib/itunes-subscription.rb",

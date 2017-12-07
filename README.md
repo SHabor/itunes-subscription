@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-receipt = ItunesSubscription.verify_receipt(base64_string, sandbox = true, password)
+    receipt = ItunesSubscription.verify_receipt(base64_string, sandbox = true, password)
 
 methods: 
 
